@@ -1,0 +1,12 @@
+D:\Proj\5LayersAreGood\Library.Core\bin\Debug\net8.0\Library.Core.deps.json
+D:\Proj\5LayersAreGood\Library.Core\bin\Debug\net8.0\Library.Core.dll
+D:\Proj\5LayersAreGood\Library.Core\bin\Debug\net8.0\Library.Core.pdb
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\Library.Core.csproj.AssemblyReference.cache
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\Library.Core.AssemblyInfoInputs.cache
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\Library.Core.AssemblyInfo.cs
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\Library.Core.csproj.CoreCompileInputs.cache
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\Library.Core.dll
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\refint\Library.Core.dll
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\Library.Core.pdb
+D:\Proj\5LayersAreGood\Library.Core\obj\Debug\net8.0\ref\Library.Core.dll

@@ -1,0 +1,6 @@
+@NASA_LogViewer_HostAddress = http://localhost:5178
+
+GET {{NASA_LogViewer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

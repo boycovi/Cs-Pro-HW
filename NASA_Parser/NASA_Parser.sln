@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NASA_Parser", "NASA_Parser\NASA_Parser.csproj", "{07974A5E-58D0-486E-8FCF-4BF8694B7E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07974A5E-58D0-486E-8FCF-4BF8694B7E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07974A5E-58D0-486E-8FCF-4BF8694B7E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07974A5E-58D0-486E-8FCF-4BF8694B7E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07974A5E-58D0-486E-8FCF-4BF8694B7E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73ECBED-2127-46D0-A6C6-9B9F598ABFD5}
+	EndGlobalSection
+EndGlobal

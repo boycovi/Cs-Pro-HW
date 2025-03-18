@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3YdBxcf73ObKApG/h7WX44BhhiQHgM6k8pKzGcM/m6CN4tt09e4VDBFR963X7N/4nUtc4OLcr5MzjeyEydjbFw==",
+  "success": true,
+  "projectFilePath": "D:\\Proj\\MyFristParser\\MyFristParser\\MyFristParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egr\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\egr\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

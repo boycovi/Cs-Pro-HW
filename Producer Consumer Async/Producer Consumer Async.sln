@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer Consumer Async", "Producer Consumer Async\Producer Consumer Async.csproj", "{14FEC5DF-B748-4BF8-84E3-349AF6C58226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FEC5DF-B748-4BF8-84E3-349AF6C58226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FEC5DF-B748-4BF8-84E3-349AF6C58226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FEC5DF-B748-4BF8-84E3-349AF6C58226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FEC5DF-B748-4BF8-84E3-349AF6C58226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7951D4F4-CC31-47BD-8A88-306D240B1993}
+	EndGlobalSection
+EndGlobal
